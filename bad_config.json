@@ -1,4 +1,5 @@
 {
-  "malformed": json
+  "malformed": json,
   "missing": "quotes"
+  "no_comma": "here"
 }
