@@ -15,19 +15,19 @@ go mod tidy
 ```
 ## Commande disponible
 
-go run main.go analyze -c config.json
-go run main.go analyze -c config.json -o rapport.json
-go run main.go --help
-go run main.go analyze --help
+<br> go run main.go analyze -c config.json 
+<br> go run main.go analyze -c config.json -o rapport.json
+<br> go run main.go --help
+<br> go run main.go analyze --help
 
-go build -o loganalyzer.exe
-./loganalyzer.exe analyze -c config.json
-./loganalyzer.exe analyze -c config.json -o rapport.json
+<br>go build -o loganalyzer.exe
+<br>./loganalyzer.exe analyze -c config.json
+<br>./loganalyzer.exe analyze -c config.json -o rapport.json
 
-go run main.go --help
-go run main.go analyze --help
-go run main.go analyze -c config.json
-go run main.go analyze -c config.json -o rapport.json
-./loganalyzer.exe analyze -c config.json
-./loganalyzer.exe analyze -c config.json -o rapport.json
+<br>go run main.go --help
+<br>go run main.go analyze --help
+<br>go run main.go analyze -c config.json
+<br>go run main.go analyze -c config.json -o rapport.json
+<br>./loganalyzer.exe analyze -c config.json
+<br>./loganalyzer.exe analyze -c config.json -o rapport.json
 
